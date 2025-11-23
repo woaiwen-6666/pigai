@@ -1,0 +1,7 @@
+{
+  "name": "Homework AI Grader",
+  "description": "An AI-powered homework correction tool optimized for mobile devices.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
